@@ -1,9 +1,9 @@
 # Original
 This is based on the project by Jamie Stewart. Find his original repo at the link below.
-[Original repo](https://github.com/JamieDStewart/GBA_VSCode_Basic)
+  [Original repo](https://github.com/JamieDStewart/GBA_VSCode_Basic)
 
 The work is done based on Jamie Stewart's YouTube tutorial. If you like this project, please visit his channel at the link below.
-[Jamie Stewart's YouTube-channel](https://www.youtube.com/channel/UCQvQbVuWMM7OYTVrmGQq0hA)
+  [Jamie Stewart's YouTube-channel](https://www.youtube.com/channel/UCQvQbVuWMM7OYTVrmGQq0hA)
 
 # GBA_VSCode_Basic
 A 'simple' Game Boy Advance development setup using Visual Studio Code and relying on devkitPro and devkitARM to do the heavy lifting.
@@ -22,7 +22,7 @@ Once devKitPro has done it's thing you can move on to getting VS Code set up.
 
 ### VS Code Extensions
 
- To make life easier install the following extensions 
+To make life easier install the following extensions 
   [ARM Extension](https://github.com/dan-c-underwood/vscode-arm)
   [C/C++](https://github.com/Microsoft/vscode-cpptools)
   [C++ Intellisense](https://github.com/austin-----/code-gnu-global)
